@@ -42,3 +42,8 @@ where I served as CTO and led an AI-powered product built on generative image mo
 computer vision & object detection · vision-language models · diffusion models & image
 restoration · VLM/RAG decision support · medical AI · edge AI & model deployment ·
 adversarial ML & AI security.
+
+#### Teaching
+
+- **Guest Lecturer — Sisa Academy (시사 아카데미)**, July 2026. Taught a lecture on
+  **Retrieval-Augmented Generation (RAG)** systems to students.
