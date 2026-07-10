@@ -2,33 +2,43 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: AI Research Engineer · Quantum Machine Learning · Computer Vision · VLM/RAG Systems
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>NextITS</p>
+    <p>Seoul, South Korea</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true
+  scrollable: true
+  limit: 5
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an **AI Research Engineer at [NextITS](https://github.com/freak-jaeuk)** working on
+**Quantum Machine Learning (QML)**, **computer vision**, **generative AI**, and
+**VLM/RAG-based decision-support systems**.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My main research direction applies **hybrid quantum–classical AI models** and **multimodal
+AI systems** to real-world problems: object detection, CCTV monitoring, image restoration,
+diffusion models, and clinical information retrieval. I build and validate **Qiskit-based
+quantum circuits on real QPUs** and ship **deployable, edge-oriented AI platforms**.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My academic background is in **adversarial machine learning**, **AI security**, **deep
+learning robustness**, and **model vulnerability analysis** (M.S., Artificial Intelligence
+and Information Security, **Yonsei University**). I previously co-founded **Leocompany**,
+where I served as CTO and led an AI-powered product built on generative image models.
+
+**Research interests:** quantum machine learning · hybrid quantum–classical systems ·
+computer vision & object detection · vision-language models · diffusion models & image
+restoration · VLM/RAG decision support · medical AI · edge AI & model deployment ·
+adversarial ML & AI security.
